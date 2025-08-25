@@ -153,8 +153,11 @@ width: 68px;
 
  
 }
+.feature-list{
+  padding-left: 0px;
+}
 .feature-list li i{
- font-size: 27px;
+ font-size: 16px;
  color:var(--buttoncolor);
 }
 
